@@ -10,3 +10,4 @@ c. Users should be able to deposit and send out money to others.
 d. Users should be able to view a visualization that shows deposit and withdrawal history.
 e. Users should be able to view the list of transactions. Also able to print out and share transactions.
 Link:https://www.figma.com/file/rApP7bJ8A5UOSOnNjTIknp/Quantum-Bank?type=design&node-id=21%3A2&mode=design&t=3GibmEglvu3BPSqp-1
+My name:Barakah Mustapha
